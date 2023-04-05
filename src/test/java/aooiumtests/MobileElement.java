@@ -6,4 +6,9 @@ public class MobileElement {
 		
 	}
 
+	public void click() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
